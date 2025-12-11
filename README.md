@@ -24,7 +24,7 @@ Open-source web development, UI/UX, and JavaScript tools.
 Web development, JavaScript, UI/UX, frontend debugging, and productivity.
 
 📫 **Contact Me:**  
-**muhammadmuzammilprofessional@gmail.com**
+**muhammadmuzammil.thedeveloper@gmail.com**
 
 😄 **Fun Fact:**  
 I won 2 hackathons without caffeine — just passion and clean logic!
