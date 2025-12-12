@@ -1,42 +1,127 @@
-<h1 align="center">✨ Muhammad Muzammil — Frontend Developer 🚀</h1>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=28&duration=3500&pause=800&color=00C0FF&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;2×+Hackathon+Champion;UI%2FUX+Enthusiast;Building+Modern+Web+Experiences" /> </p>
-<h2 align="center">🌟 About Me</h2>
-👋 Hi, I’m Muhammad Muzammil
+<!-- ✨ Animated Header Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/b0X9q5N.gif" width="100%" />
+</p>
 
-A passionate Frontend Web Developer who loves crafting smooth, fast, and beautiful digital experiences.
-My focus is on writing clean code, modern UI/UX, and building scalable web interfaces.
+<h1 align="center">💫 Muhammad Muzammil — Frontend Developer 🚀</h1>
 
-🏆 Achievements
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&color=00E5FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;UI%2FUX+Designer;2x+Hackathon+Champion;Building+Modern+Web+Experiences;Code.+Create.+Inspire." />
+</p>
 
-🥇 Winner — SMIT Hackathon
+<!-- 🌈 Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
-🥇 Winner — CodEung2025 Hackathon
+---
 
-🎯 Current Focus
+## 🌟 **About Me**
+<p align="left">
+  <img align="right" src="https://i.gifer.com/origin/85/85624de281a73f31a8b801f23ab954f8_w200.gif" width="170"/>
+</p>
 
-Building modern UI/UX
+✨ **Hi, I’m Muhammad Muzammil!**  
+A passionate **Frontend Web Developer** focused on building smooth, interactive, and visually stunning web experiences.
 
-Deep-diving into advanced JavaScript & React
+🔥 I love creating websites that are:
+- Fast ⚡
+- Responsive 📱
+- Beautiful 🎨  
+- User-centered 👨‍💻
 
-💬 Ask Me About
+🏆 **Achievements**
+- 🥇 Winner — **SMIT Hackathon**
+- 🥇 Winner — **CodEung2025 Hackathon**
 
-Frontend development, JS logic, Tailwind, UI/UX, debugging, productivity hacks.
+🎯 **Current Focus**
+- React.js, Advanced JavaScript
+- Modern UI/UX animations
+- High-performance frontend systems
 
-📫 Reach Me At
+💬 **Ask me about**  
+JavaScript, Tailwind, UI/UX, responsive layouts, debugging, productivity
 
-📧 muhammadmuzammil.thedeveloper@gmail.com
+📩 **Email:**  
+📧 *muhammadmuzammil.thedeveloper@gmail.com*
 
-<h2 align="center">🌐 Connect With Me</h2>
-<p align="center"> <a href="https://github.com/MuhammadMuzammil-TheDeveloper"><img src="https://skillicons.dev/icons?i=github" height="45"/></a> <a href="https://www.linkedin.com/in/muhammad-muzammil-7562bb316/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a> <a href="https://www.instagram.com/muzammil_techteasure1"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a> <a href="https://www.youtube.com/@muzans786"><img src="https://skillicons.dev/icons?i=youtube" height="45"/></a> </p>
-<h2 align="center">🛠️ Skills & Technologies</h2>
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,python,cs,c" /> </p>
-<h2 align="center">🏆 GitHub Achievements</h2>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MuhammadMuzammil-TheDeveloper&theme=algolia&no-bg=true&margin-w=15" /> </p>
-<h2 align="center">📊 GitHub Analytics</h2>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMuzammil-TheDeveloper&show_icons=true&theme=tokyonight" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuzammil-TheDeveloper&layout=compact&theme=tokyonight" height="160"/> </p>
-<h2 align="center">🔥 Contribution Streak</h2>
-<p align="center"> <img src="https://streak-stats.demolab.com?user=MuhammadMuzammil-TheDeveloper&theme=tokyonight" /> </p>
-<h2 align="center">🌐 Portfolio</h2>
-<p align="center"> <a href="https://muhammad-muzammil.netlify.app/"> <img src="https://img.shields.io/badge/Visit_My_Portfolio-00C0FF?style=for-the-badge&logo=firefox&logoColor=white" /> </a> </p>
-<h2 align="center">🚀 Let’s Build Something Amazing! </h2>
-<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"> </p> <p align="center"> <b>“Great products are built with passion — not caffeine.” 😄</b> </p>
+---
+
+## 🌐 **Connect With Me**
+
+<p align="center">
+  <a href="https://github.com/MuhammadMuzammil-TheDeveloper"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-muzammil-7562bb316/"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+  <a href="https://www.instagram.com/muzammil_techteasure1"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
+  <a href="https://www.youtube.com/@muzans786"><img src="https://skillicons.dev/icons?i=youtube" height="50"/></a>
+</p>
+
+---
+
+## 🛠️ **Skills & Technologies**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,python,cs,c,vscode,figma" height="75"/>
+</p>
+
+---
+
+## 🧑‍💻 **Animated Developer Section**
+
+<p align="center">
+  <img src="https://i.imgur.com/mt5T1QW.gif" width="500"/>
+</p>
+
+---
+
+## 🏆 **GitHub Achievements**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadMuzammil-TheDeveloper&theme=matrix&no-frame=true&margin-w=20" />
+</p>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMuzammil-TheDeveloper&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuzammil-TheDeveloper&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 **Contribution Streak**
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MuhammadMuzammil-TheDeveloper&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎨 **Animated Wave Section Separator**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,100:0011FF&section=footer" />
+</p>
+
+---
+
+## 🌐 **Portfolio**
+
+<p align="center">
+  <a href="https://muhammad-muzammil.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-1E90FF?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 **Let’s Build Something Amazing Together!**
+
+<p align="center">
+  <img src="https://i.imgur.com/qJHHFQ2.gif" width="300" />
+</p>
+
+<p align="center"><b>“Great products are built with passion — not caffeine.” 😄</b></p>
+
