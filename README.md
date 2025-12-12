@@ -1,8 +1,6 @@
 <!-- 🌐 FULL WEBSITE-STYLE HEADER -->
 <div align="center">
 
-<img src="https://i.imgur.com/b0X9q5N.gif" width="100%" />
-
 <h1 align="center">🌟 Muhammad Muzammil — Frontend Developer 🚀</h1>
 
 <p>
