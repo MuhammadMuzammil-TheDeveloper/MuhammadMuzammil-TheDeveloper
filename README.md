@@ -1,135 +1,159 @@
+<!-- =========================
+     FULLY ANIMATED README
+     Replace:
+     - USERNAME_HERE
+     - Muhammad Muzammil + links if needed
+========================= -->
 
-<!-- 🌐 FULL WEBSITE-STYLE HEADER -->
 <div align="center">
 
-<h1 align="center">🌟 Muhammad Muzammil — Frontend Developer 🚀</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Muhammad%20Muzammil&fontAlign=50&fontAlignY=40&desc=Frontend%20Developer%20%E2%80%A2%20React%20%7C%20JavaScript%20%E2%80%A2%20UI%2FUX%20Motion&descAlign=50&descAlignY=60&color=gradient" width="100%" />
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+JavaScript+Specialist;2x+Hackathon+Champion;UI%2FUX+Animation+Expert;Crafting+Beautiful+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=820&lines=Frontend+Developer;React+%7C+JavaScript+Specialist;UI%2FUX+Animation+%26+Motion+Design;Building+Smooth%2C+Modern+Web+Experiences;Open+to+Collaboration+%26+Remote+Work" />
 </p>
 
-<br/>
-
-<!-- 🔥 Glassmorphism Card -->
-<div style="padding:20px;background:rgba(255,255,255,0.05);backdrop-filter:blur(10px);border-radius:20px; width:80%">
-<h2>💫 Welcome to My Digital Space</h2>
-<p>I'm <strong>Muhammad Muzammil</strong>, a passionate <strong>Frontend Developer</strong> dedicated to building stunning, modern, and animated web experiences that feel alive.</p>
-</div>
-
-</div>
-
-<!-- 🌈 ANIMATED DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
----
-
-# 🎨 **🧑‍💻 ABOUT ME — WITH ANIMATED CHARACTER**
-<p align="left">
-  <img src="https://i.pinimg.com/originals/50/65/90/506590c905090b06fb7260735e882367.gif" width="200" align="right"/>
-</p>
-
-✨ I create web apps that feel like **smooth animated websites**, not static pages.  
-My goals include **perfect UI/UX**, **buttery-smooth interaction**, and **modern frontend architecture**.
-
-🔥 **What makes me different?**  
-✔ I mix **design + performance + animation**  
-✔ I build UIs that feel like **full websites**  
-✔ I focus on **pixel-perfect frontend**  
-
-🏆 **Achievements**  
-- 🥇 Winner — SMIT Hackathon  
-- 🥇 Winner — CodEung2025 Hackathon  
-
-🎯 **Currently working on**  
-- React animations  
-- UI motion design  
-- High-level frontend systems
-
-📧 **Email:**  
-**muhammadmuzammil.thedeveloper@gmail.com**
-
----
-
-# ⚡ **TECH STACK — ANIMATED WALL**
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,figma,cs,c,python,vscode&theme=light" height="130" />
-</p>
-
----
-
-# 🚀 **MY ANIMATED SHOWCASE SECTION**
-
-<p align="center">
-  <img src="https://i.imgur.com/mt5T1QW.gif" width="600"/>
-</p>
-
-<p align="center"><b>“I turn ideas into responsive, animated, modern websites.”</b></p>
-
----
-
-# 🏆 **GITHUB TROPHIES — PREMIUM UI**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadMuzammil-TheDeveloper&theme=matrix&margin-w=20&no-bg=true&no-frame=true" />
-</p>
-
----
-
-# 📊 **STATS — MODERN DASHBOARD STYLE**
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadMuzammil-TheDeveloper&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuzammil-TheDeveloper&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🔥 **CONTRIBUTION GRAPH — LIVE FLAMES**
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhammadMuzammil-TheDeveloper&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🌐 **PORTFOLIO — GLASS BUTTON**
-
-<p align="center">
-  <a href="https://muhammad-muzammil.netlify.app/">
-    <img src="https://img.shields.io/badge/Visit_Portfolio-00D1FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" />
+<p>
+  <a href="https://muhammad-muzammil.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00D1FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:muhammadmuzammil.thedeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-muzammil-7562bb316/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@muzans786" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-# 🎭 **ANIMATED CHARACTERS SECTION (FULL WEBSITE FEEL)**
-
-<p align="center">
-  <img src="https://i.gifer.com/origin/4f/4f2f7d487a07c5f3c2543d55d30be54a_w200.gif" width="200"/>
-  <img src="https://i.gifer.com/4V0b.gif" width="200"/>
-  <img src="https://i.gifer.com/XOsX.gif" width="200"/>
-</p>
+</div>
 
 ---
 
-# 📞 **CONNECT WITH ME — ICON WALL**
+## 🎭 About Me (Animated + Premium)
 
-<p align="center">
-  <a href="https://github.com/MuhammadMuzammil-TheDeveloper"><img src="https://skillicons.dev/icons?i=github" height="55"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-muzammil-7562bb316/"><img src="https://skillicons.dev/icons?i=linkedin" height="55"/></a>
-  <a href="https://www.instagram.com/muzammil_techteasure1"><img src="https://skillicons.dev/icons?i=instagram" height="55"/></a>
-  <a href="https://www.youtube.com/@muzans786"><img src="https://skillicons.dev/icons?i=youtube" height="55"/></a>
-</p>
+<div align="left">
+
+<img align="right" width="220" src="https://i.pinimg.com/originals/50/65/90/506590c905090b06fb7260735e882367.gif" />
+
+✨ I’m **Muhammad Muzammil**, a **Frontend Developer** focused on building web apps that feel like **smooth animated experiences**—not static pages.
+
+I blend:
+- **Design precision** (pixel-perfect UI)
+- **Performance mindset** (fast, responsive)
+- **Motion + micro-interactions** (interfaces that feel alive)
+- **Modern architecture** (clean, scalable React systems)
+
+🏆 **Achievements**
+- 🥇 Winner — **SMIT Hackathon**
+- 🥇 Winner — **CodEung 2025 Hackathon**
+
+🎯 **Currently leveling up**
+- Advanced React patterns & component systems  
+- UI motion design & interaction polish  
+- High-performance frontend workflows  
+
+</div>
 
 ---
 
-# 🌊 **ANIMATED WEBSITE-STYLE FOOTER**
+## ⚡ Tech Stack (Animated Wall)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer" />
-</p>
+<div align="center">
 
-<p align="center"><b>“Great products are built with passion — not caffeine.” 😄</b></p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,figma,python,cs,c,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+## 🚀 Animated Showcase
+
+<div align="center">
+
+<img src="https://i.imgur.com/mt5T1QW.gif" width="650" />
+
+### “I turn ideas into responsive, animated, modern websites.”
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies (Premium Motion Feel)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_HERE&theme=matrix&margin-w=14&no-bg=true&no-frame=true" />
+</div>
+
+---
+
+## 📊 Stats Dashboard (Animated + Clean)
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img height="185" src="https://streak-stats.demolab.com?user=USERNAME_HERE&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Activity Graph (Looks Like a Product Dashboard)
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_HERE&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me (Animated + Icon Wall)
+
+<div align="center">
+
+<a href="https://github.com/USERNAME_HERE" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="55" />
+</a>
+<a href="https://www.linkedin.com/in/muhammad-muzammil-7562bb316/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="55" />
+</a>
+<a href="https://www.instagram.com/muzammil_techteasure1" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="55" />
+</a>
+<a href="https://www.youtube.com/@muzans786" target="_blank">
+  <img src="https://skillicons.dev/icons?i=youtube&theme=dark" height="55" />
+</a>
+
+</div>
+
+---
+
+## 🧠 Quick Facts (Small but Strong)
+
+- ✅ Clean UI, clean code, clean structure  
+- ✅ Animation & micro-interactions focused  
+- ✅ Strong in React ecosystems  
+- ✅ Always improving systems & design quality  
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer" width="100%" />
+
+**“Great products are built with passion — not caffeine.” ☕⚡**
+
+</div>
