@@ -1,7 +1,5 @@
 <!-- ✨ HERO BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/b0X9q5N.gif" width="100%" alt="Animated header banner" />
-</p>
+
 
 <h1 align="center">💫 Muhammad Muzammil — Frontend Developer 🚀</h1>
 
