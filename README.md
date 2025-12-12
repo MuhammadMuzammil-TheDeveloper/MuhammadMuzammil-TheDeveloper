@@ -1,9 +1,3 @@
-<!-- =========================
-     FULLY ANIMATED README
-     Replace:
-     - USERNAME_HERE
-     - Muhammad Muzammil + links if needed
-========================= -->
 
 <div align="center">
 
@@ -61,7 +55,7 @@ I blend:
 
 ---
 
-## ⚡ Tech Stack (Animated Wall)
+## ⚡ Tech Stack 
 
 <div align="center">
 
@@ -97,7 +91,7 @@ I blend:
 
 ---
 
-## 🧠 Quick Facts (Small but Strong)
+## 🧠 Quick Facts 
 
 - ✅ Clean UI, clean code, clean structure  
 - ✅ Animation & micro-interactions focused  
