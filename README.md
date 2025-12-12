@@ -1,134 +1,16 @@
-<!-- 🌐 FULL WEBSITE-STYLE HEADER -->
-<div align="center">
-
-<h1 align="center">🌟 Muhammad Muzammil — Frontend Developer 🚀</h1>
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+JavaScript+Specialist;2x+Hackathon+Champion;UI%2FUX+Animation+Expert;Crafting+Beautiful+Web+Experiences" />
-</p>
-
-<br/>
-
-<!-- 🔥 Glassmorphism Card -->
-<div style="padding:20px;background:rgba(255,255,255,0.05);backdrop-filter:blur(10px);border-radius:20px; width:80%">
-<h2>💫 Welcome to My Digital Space</h2>
-<p>I'm <strong>Muhammad Muzammil</strong>, a passionate <strong>Frontend Developer</strong> dedicated to building stunning, modern, and animated web experiences that feel alive.</p>
-</div>
-
-</div>
-
-<!-- 🌈 ANIMATED DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
----
-
-# 🎨 **🧑‍💻 ABOUT ME — WITH ANIMATED CHARACTER**
-<p align="left">
-  <img src="https://i.pinimg.com/originals/50/65/90/506590c905090b06fb7260735e882367.gif" width="200" align="right"/>
-</p>
-
-✨ I create web apps that feel like **smooth animated websites**, not static pages.  
-My goals include **perfect UI/UX**, **buttery-smooth interaction**, and **modern frontend architecture**.
-
-🔥 **What makes me different?**  
-✔ I mix **design + performance + animation**  
-✔ I build UIs that feel like **full websites**  
-✔ I focus on **pixel-perfect frontend**  
-
-🏆 **Achievements**  
-- 🥇 Winner — SMIT Hackathon  
-- 🥇 Winner — CodEung2025 Hackathon  
-
-🎯 **Currently working on**  
-- React animations  
-- UI motion design  
-- High-level frontend systems
-
-📧 **Email:**  
-**muhammadmuzammil.thedeveloper@gmail.com**
-
----
-
-# ⚡ **TECH STACK — ANIMATED WALL**
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,figma,cs,c,python,vscode&theme=light" height="130" />
-</p>
-
----
-
-# 🚀 **MY ANIMATED SHOWCASE SECTION**
-
-<p align="center">
-  <img src="https://i.imgur.com/mt5T1QW.gif" width="600"/>
-</p>
-
-<p align="center"><b>“I turn ideas into responsive, animated, modern websites.”</b></p>
-
----
-
-# 🏆 **GITHUB TROPHIES — PREMIUM UI**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadMuzammil-TheDeveloper&theme=matrix&margin-w=20&no-bg=true&no-frame=true" />
-</p>
-
----
-
-# 📊 **STATS — MODERN DASHBOARD STYLE**
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadMuzammil-TheDeveloper&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuzammil-TheDeveloper&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🔥 **CONTRIBUTION GRAPH — LIVE FLAMES**
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhammadMuzammil-TheDeveloper&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🌐 **PORTFOLIO — GLASS BUTTON**
-
-<p align="center">
-  <a href="https://muhammad-muzammil.netlify.app/">
-    <img src="https://img.shields.io/badge/Visit_Portfolio-00D1FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" />
-  </a>
-</p>
-
----
-
-# 🎭 **ANIMATED CHARACTERS SECTION (FULL WEBSITE FEEL)**
-
-<p align="center">
-  <img src="https://i.gifer.com/origin/4f/4f2f7d487a07c5f3c2543d55d30be54a_w200.gif" width="200"/>
-  <img src="https://i.gifer.com/4V0b.gif" width="200"/>
-  <img src="https://i.gifer.com/XOsX.gif" width="200"/>
-</p>
-
----
-
-# 📞 **CONNECT WITH ME — ICON WALL**
-
-<p align="center">
-  <a href="https://github.com/MuhammadMuzammil-TheDeveloper"><img src="https://skillicons.dev/icons?i=github" height="55"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-muzammil-7562bb316/"><img src="https://skillicons.dev/icons?i=linkedin" height="55"/></a>
-  <a href="https://www.instagram.com/muzammil_techteasure1"><img src="https://skillicons.dev/icons?i=instagram" height="55"/></a>
-  <a href="https://www.youtube.com/@muzans786"><img src="https://skillicons.dev/icons?i=youtube" height="55"/></a>
-</p>
-
----
-
-# 🌊 **ANIMATED WEBSITE-STYLE FOOTER**
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer" />
-</p>
-
-<p align="center"><b>“Great products are built with passion — not caffeine.” 😄</b></p>
+Muhammad Muzammil — Frontend Web Developer
+<div align="center"> <svg fill="none" width="100%" viewBox="0 0 1100 120" xmlns="http://www.w3.org/2000/svg"> <foreignObject width="100%" height="100%"> <div xmlns="http://www.w3.org/1999/xhtml"> <style> .wrapper { display: flex; align-items: center; justify-content: center; height: 120px; } .text { font-family: monospace; font-size: 4em; white-space: nowrap; overflow: hidden; border-right: 3px solid #fe00ff; /* Animation */ width: 25ch; animation: typing 3s steps(25), blink 0.5s step-end infinite alternate; /* Gradient text */ background: linear-gradient(90deg, rgba(0,241,220,1) 0%, rgba(86,115,241,1) 50%, rgba(254,0,255,1) 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; } @keyframes typing { from { width: 0 } } @keyframes blink { from, to { border-color: transparent } 50% { border-color: #fe00ff; } } </style> <div class="wrapper"> <div class="text">Hi, I'm Muhammad Muzammil</div> </div> </div> </foreignObject> </svg> </div>
+About Me
+<div align="center"> <svg width="100%" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg"> <text x="50%" y="20" text-anchor="middle" fill="currentColor" font-size="14" font-family="sans-serif" opacity="0"> Frontend developer bridging design &amp; code to build intuitive UIs. <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.5s" fill="freeze" /> </text> <text x="50%" y="50" text-anchor="middle" fill="currentColor" font-size="14" font-family="sans-serif" opacity="0"> Passionate about UI/UX and creating interactive web experiences. <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.5s" fill="freeze" /> </text> <text x="50%" y="80" text-anchor="middle" fill="currentColor" font-size="14" font-family="sans-serif" opacity="0"> Always learning and exploring new technologies. <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.5s" fill="freeze" /> </text> </svg> </div>
+✨ Achievements
+<p align="center"> 🏆 <strong>Hackathon Champion</strong> – SMIT Hackathon<br> 🏆 <strong>Hackathon Champion</strong> – CodEung 2025 </p>
+🛠 Skills
+<table align="center"> <tr> <td>🌐 HTML</td> <td>🎨 CSS</td> <td>⚡ JavaScript</td> </tr> <tr> <td>⚛️ React</td> <td>🌀 Tailwind CSS</td> <td>🎀 Bootstrap</td> </tr> <tr> <td>🗃 Git</td> <td>🐍 Python</td> <td>💻 C / C#</td> </tr> <tr> <td colspan="3">🎨 UI/UX Design</td> </tr> </table>
+📚 Projects
+<table width="100%"> <tr> <td width="50%" valign="top"> <strong>🚀 Project One</strong><br> Description for project one. </td> <td width="50%" valign="top"> <strong>💼 Project Two</strong><br> Description for project two. </td> </tr> <tr> <td width="50%" valign="top"> <strong>🔧 Project Three</strong><br> Description for project three. </td> <td width="50%" valign="top"> <strong>🎨 Project Four</strong><br> Description for project four. </td> </tr> </table> <p align="center">━━━ ⋆⋅☆⋅⋆ ━━━</p>
+📊 GitHub Stats
+<!-- Replace USERNAME with your GitHub username --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" alt="Top Languages"> </p>
+🔥 Contribution Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=dark&hide_border=true" alt="GitHub Streak"> </p>
+🤝 Contact
+<!-- Replace the links with your own social and email --> <p align="center"> <svg width="320" height="50" viewBox="0 0 320 50" xmlns="http://www.w3.org/2000/svg"> <a xlink:href="mailto:youremail@example.com"> <rect x="0" y="5" width="100" height="40" rx="5" fill="#fe00ff"> <animate attributeName="fill" values="#fe00ff; #00f1dc; #fe00ff" dur="4s" repeatCount="indefinite" /> </rect> <text x="50" y="25" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#ffffff">Email</text> </a> <a xlink:href="https://linkedin.com/in/yourusername" target="_blank"> <rect x="110" y="5" width="100" height="40" rx="5" fill="#fe00ff"> <animate attributeName="fill" values="#fe00ff; #00f1dc; #fe00ff" dur="4s" repeatCount="indefinite" /> </rect> <text x="160" y="25" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#ffffff">LinkedIn</text> </a> <a xlink:href="https://yourwebsite.com" target="_blank"> <rect x="220" y="5" width="100" height="40" rx="5" fill="#fe00ff"> <animate attributeName="fill" values="#fe00ff; #00f1dc; #fe00ff" dur="4s" repeatCount="indefinite" /> </rect> <text x="270" y="25" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#ffffff">Portfolio</text> </a> </svg> </p> <div align="center"> <svg width="100%" viewBox="0 0 1440 200" xmlns="http://www.w3.org/2000/svg"> <defs> <linearGradient id="waveGradient" x1="0" x2="1440" y1="0" y2="0" gradientUnits="userSpaceOnUse"> <stop offset="0%" stop-color="#00f1dc" /> <stop offset="100%" stop-color="#fe00ff" /> </linearGradient> </defs> <path fill="url(#waveGradient)" d="M0 40 Q360 0 720 40 T 1440 40 V200 H0 Z"> <animate attributeName="d" dur="4s" repeatCount="indefinite" values=" M0 40 Q360 0 720 40 T 1440 40 V200 H0 Z; M0 40 Q360 60 720 40 T 1440 40 V190 H0 Z; M0 40 Q360 0 720 40 T 1440 40 V200 H0 Z" /> </path> </svg> </div> <!-- Sources: - CSS & SVG technique for animated typing text in hero section:contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}. - Animated SVG wave technique for footer:contentReference[oaicite:2]{index=2}. -->
