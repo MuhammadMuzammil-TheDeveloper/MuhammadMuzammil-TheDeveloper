@@ -34,7 +34,7 @@
 
 ---
 
-## 🎭 About Me (Animated + Premium)
+## About Me 
 
 <div align="left">
 
@@ -75,52 +75,8 @@ I blend:
 
 ---
 
-## 🚀 Animated Showcase
 
-<div align="center">
-
-<img src="https://i.imgur.com/mt5T1QW.gif" width="650" />
-
-### “I turn ideas into responsive, animated, modern websites.”
-
-</div>
-
----
-
-## 🏆 GitHub Trophies (Premium Motion Feel)
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_HERE&theme=matrix&margin-w=14&no-bg=true&no-frame=true" />
-</div>
-
----
-
-## 📊 Stats Dashboard (Animated + Clean)
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img height="185" src="https://streak-stats.demolab.com?user=USERNAME_HERE&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 Activity Graph (Looks Like a Product Dashboard)
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_HERE&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## 🌐 Connect With Me (Animated + Icon Wall)
+## 🌐 Connect With Me 
 
 <div align="center">
 
