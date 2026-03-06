@@ -27,6 +27,7 @@ const MuhammadMuzammil = {
   currentWork: "Building cross-platform mobile experiences",
   learning:    "Advanced Node.js • Microservices • Cloud Architecture",
   askMeAbout:  ["React", "Frontend Architecture", "UI/UX Design"],
+  achievement: "🏆 1st Position Holder — CodeJung 2025",
   funFact:     "I love the precision of LaTeX as much as I love writing clean code ⚡",
 };
 ```
@@ -34,6 +35,7 @@ const MuhammadMuzammil = {
 - 🔭 **Currently building** scalable cross-platform apps with **React Native**
 - 🌱 **Deep-diving into** Advanced Node.js, System Design & Backend Architecture
 - 🎯 **2025 Goals:** Contribute to open-source, build production-grade SaaS products
+- 🏆 **Achievement:** **1st Position Holder at CodeJung 2025** — a competitive programming contest
 - 💡 **Philosophy:** Clean code is not written by chance — it's crafted with intent
 - ⚡ **Fun Fact:** I enjoy the precision of LaTeX for technical documentation as much as I love coding
 
@@ -52,14 +54,29 @@ const MuhammadMuzammil = {
 
 ---
 
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+| 🥇 Contest | 🎖️ Position | 📅 Year |
+|:---:|:---:|:---:|
+| **CodeJung** | **1st Place 🏆** | **2025** |
+
+> *Secured **1st position** at CodeJung 2025 — a competitive programming challenge testing algorithmic thinking, problem-solving speed, and code efficiency.*
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 <details open>
-<summary><b>🚀 Languages & Core</b></summary>
+<summary><b>🌐 Languages & Core</b></summary>
 <br/>
 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -67,14 +84,13 @@ const MuhammadMuzammil = {
 </details>
 
 <details open>
-<summary><b>🎨 Frontend & Mobile</b></summary>
+<summary><b>🎨 Frontend & Styling</b></summary>
 <br/>
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
 </details>
 
@@ -84,10 +100,11 @@ const MuhammadMuzammil = {
 
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-%235865F2.svg?style=for-the-badge&logo=inngest&logoColor=white)
+![Neon DB](https://img.shields.io/badge/Neon%20DB-00E5BF?style=for-the-badge&logo=neon&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 </details>
 
