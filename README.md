@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Muzammil&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Software%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20Problem%20Solver&descAlignY=62&descSize=16" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;React+%7C+React+Native+Enthusiast;Node.js+%26+System+Design+Explorer;Turning+Complex+Problems+into+Clean+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web+Developer;HTML+%7C+CSS+%7C+JavaScript+Enthusiast;System+Design+Explorer;Turning+Complex+Problems+into+Clean+Code)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,19 +21,19 @@
 
 ```typescript
 const MuhammadMuzammil = {
-  role:        "Software Developer — Full-Stack & Mobile",
+  role:        "Software Developer — Full-Stack",
   location:    "🌍 Pakistan",
-  focus:       ["React Native", "Node.js", "System Design"],
-  currentWork: "Building cross-platform mobile experiences",
-  learning:    "Advanced Node.js • Microservices • Cloud Architecture",
-  askMeAbout:  ["React", "Frontend Architecture", "UI/UX Design"],
+  focus:       ["JavaScript", "Firebase", "System Design"],
+  currentWork: "Building scalable web experiences",
+  learning:    "System Design & Backend Architecture",
+  askMeAbout:  ["HTML/CSS", "Frontend Architecture", "UI/UX Design"],
   achievement: "🏆 1st Position Holder — CodeJung 2025",
   funFact:     "I love the precision of LaTeX as much as I love writing clean code ⚡",
 };
 ```
 
-- 🔭 **Currently building** scalable cross-platform apps with **React Native**
-- 🌱 **Deep-diving into** Advanced Node.js, System Design & Backend Architecture
+- 🔭 **Currently building** scalable web apps with **JavaScript & Firebase**
+- 🌱 **Deep-diving into** System Design & Backend Architecture
 - 🎯 **2025 Goals:** Contribute to open-source, build production-grade SaaS products
 - 🏆 **Achievement:** **1st Position Holder at CodeJung 2025** — a competitive programming contest
 - 💡 **Philosophy:** Clean code is not written by chance — it's crafted with intent
@@ -87,8 +87,6 @@ const MuhammadMuzammil = {
 <summary><b>🎨 Frontend & Styling</b></summary>
 <br/>
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -98,7 +96,6 @@ const MuhammadMuzammil = {
 <summary><b>⚙️ Backend, Databases & DevOps</b></summary>
 <br/>
 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Inngest](https://img.shields.io/badge/Inngest-%235865F2.svg?style=for-the-badge&logo=inngest&logoColor=white)
 ![Neon DB](https://img.shields.io/badge/Neon%20DB-00E5BF?style=for-the-badge&logo=neon&logoColor=black)
