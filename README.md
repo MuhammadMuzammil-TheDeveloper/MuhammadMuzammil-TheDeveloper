@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:22c55e&height=180&section=header&text=Muhammad%20Muzammil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Karachi%2C%20Pakistan&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api  ?type=waving&color=0:0a0a0a,100:22c55e&height=180&section=header&text=Muhammad%20Muzammil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Karachi%2C%20Pakistan&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/muhammad-muzammil-7562bb316/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:muzammil.muhammad7782@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
